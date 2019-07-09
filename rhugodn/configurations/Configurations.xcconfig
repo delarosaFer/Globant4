@@ -1,0 +1,7 @@
+//MARK: - Configurations for the project
+APP_NAME = GlobantCV
+APP_VERSION = 1.0
+APP_BUNDLE = com.globant
+
+//MARK: - URL for API working places list
+WPL_URL = https:/api.myjson.com/bins/sxj03

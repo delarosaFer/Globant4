@@ -1,0 +1,12 @@
+//MARK: - Strings for alerts controllers
+"errorTitle" = "Error!";
+"errorMessaage" = "Oops! We found an error getting the data";
+"invalidUrl" = "The given url is not valid";
+"invalidData" = "The data retrieved cannot be parsed";
+
+"unknownNetworkError" = "Unknown network error";
+"okAction" = "Ok";
+
+//MARK: - Strings for dates
+"fromDate" = "From: ";
+"toDate" = "To: ";

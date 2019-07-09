@@ -1,0 +1,30 @@
+[
+    {
+        "identifier": 0,
+        "companytitle": "Globant Mexico",
+        "description": "iOS Developer and Techlead in Globant Mexico, I've been working with different banking and fintech clients in Mexico and USA.",
+        "startingdate": "March 2017",
+        "finishingdate": "Present"
+    },
+    {
+        "identifier": 1,
+        "companytitle": "Banking app",
+        "description": "I worked on Westpac’s iPad and iPhone banking apps for Alphero, a mobile consultancy. The app is visually sophisticated with complex transitions. It has been very popular with Westpac’s customers and saw a significant climb in the ratings.",
+        "startingdate": "September 2015",
+        "finishingdate": "December 2017"
+    },
+    {
+        "identifier": "2",
+        "companytitle": "ANZ goMoney",
+        "description": "I worked on Pay Anyone and Pay to Mobile features for both AU and NZ variants of goMoney. This work touched most of the mobile banking stack; service integration using GSOAP, address book integration, business logic, validation, controller logic and UI.",
+        "startingdate": "March 2013",
+        "finishingdate": "May 2015"
+    }
+    {
+        "identifier": 3,
+        "companytitle": "Powershop",
+        "description": "This is a customer facing iPhone app for purchasing products with some great animations, transitions and interactions. An exciting aspect of this project is the use of Calabash for automated testing of the iOS app. For each story I write automation tests in a BDD style.",
+        "startingdate": "July 2010",
+        "finishingdate": "February 2012"
+    }
+]
